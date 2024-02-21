@@ -1,2 +1,2 @@
 # Cancer-text-classification
-(image_cancer.jpg)
+![alt text](http://url/to/img.png)
