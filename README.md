@@ -1,2 +1,2 @@
 # Cancer-text-classification
-[image_cancer.jpg]
+(image_cancer.jpg)
