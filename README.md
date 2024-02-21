@@ -1,2 +1,2 @@
 # Cancer-text-classification
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/JamBelg/Cancer-text-classification/blob/main/image_cancer.jpg)
