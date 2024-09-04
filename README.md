@@ -3,4 +3,4 @@
 
 *The cancer data is from [Kaggle](https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification)*
 
-![alt text](https://github.com/JamBelg/Cancer-text-classification/blob/main/image_cancer.jpg)
+![alt text](https://github.com/JamBelg/Cancer-text-classification/blob/main/wordcloud.png)
